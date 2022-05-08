@@ -3,7 +3,7 @@ A car sign data set was selected, and the pictures were stored in the data folde
 
 Dimension reduction method（PCA）
 
-Examples of selected datasets are shown below：A total of 16 categories of data sets were found.
+Examples of selected datasets are shown below：A total of 16 categories of data sets were found. Data set files In the Data folder in tag you can see all the icon data sets.
 ![car-logo-data](https://github.com/YuanchunZ/project4/blob/main/IMG_3553.JPG)
 
 The extracted original features were put into the train_feature.npy file, and a total of 34 category features were trained. Features reduced to 2 dimensions were put into train_Feature_reduction2.npy, and features reduced to 3 dimensions were put into train_Feature_reduction3.npy.The code is get_feature.py.
